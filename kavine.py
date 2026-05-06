@@ -11,7 +11,7 @@ if anyname == 'kapucino': print('geras pasirinkimas')
 
 print('bus uŽ 5 min')
 anyname = input()
-print('prašom ')
+print('prasom ')
 anyname + input()
 print('Viso gero')
 anyname = input()
