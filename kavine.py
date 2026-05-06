@@ -1,0 +1,17 @@
+print('Labas')
+print('Ir koks jūsu vardas?')
+anyname = input()
+print('Labas ' + anyname)
+
+print('Ko norėtumet ?')
+print('kavos ar kapucino ?')
+anyname = input()
+if anyname == 'kavos': print('Geras pasirinkimas')
+if anyname == 'kapucino': print('geras pasirinkimas')
+
+print('bus uŽ 5 min')
+anyname = input()
+print('prašom ')
+anyname + input()
+print('Viso gero')
+anyname = input()
